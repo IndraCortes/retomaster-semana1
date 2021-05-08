@@ -1,7 +1,7 @@
 <a name="top"></a>
 # RETO MASTER
  
-## Clases
+## Conceptos
 * [Nube privada](#nube_privada)
 * [Nube híbrida](#nube_híbrida)
 * [Nube pública](#nube_pública) 
@@ -10,6 +10,9 @@
     * [SaaS](#item3)
 * [Frontend](#Frontend)
 * [Backend](#Backend)
+* [API](#Api)
+* [Git](#Git)
+* [Git-Hub](#GitHub)
  
 <a name="nube_privada"></a>
 ### Nube privada
@@ -26,6 +29,8 @@ Son espacios/servicios que pueden funcionar en entornos locales y externos, exis
  
 Son espacios/servicios que están disponibles para todo aquel que decida adquirirlos mediante diveros esquemas de suscripciones.
 El ser una nube pública no significa que sea gratuita. Estos entornos ofrecen diversas soluciones como IaaS, PaaS y SaaS.
+
+[Volver](#top)
  
 <a name="IaaS"></a>
 ### IaaS - Infrastructure as a Service
@@ -55,5 +60,22 @@ Es la parte que se ve en un sitio web, la parte que interactúa con el usuario, 
 ### Backend
 
 Son partes que el usuario no ve, es la parte lógica, conexiones a la base de datos, conexiones con el servidor, el guardado de la información y otras cosas que tienen que ver con el correcto funcionamiento del sitio web. 
+
+[Volver](#top)
+
+<a name="Api"></a>
+### API - Application Programming Interface
+
+Interfaz de programación de aplicaciones. Son un conjunto de funciones que ayudan a integrar el software de las aplicaciones. 
+
+<a name="Git"></a>
+### Git
+
+Git es un sistema de control de versiones diseñado por Linus Torvalds. Es decir, ayuda a los desarrolladores a llevar un control de los cambios que hacen a sus aplicaciones, permitiendoles volver a algún punto en específico.
+
+<a name="GitHub"></a>
+### GitHub
+
+GitHub es una compañía con servicio de hosting para los repositorios haciendo más sencillo el uso de Git en distintos proyectos en donde se necesite llevar un control de versiones. 
 
 [Volver](#top)
